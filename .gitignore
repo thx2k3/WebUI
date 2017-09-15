@@ -7,6 +7,11 @@
 
 # dependencies
 #/node_modules
+node_modules/@angular
+node_modules/@angular-devkit
+node_modules/@ngtools
+node_modules/@schematics
+node_modules/@types
 
 # IDEs and editors
 #/.idea
