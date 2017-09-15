@@ -53,20 +53,20 @@
 # /node_modules/assert
 # /node_modules/assert-plus
 # /node_modules/async
-/node_modules/async-each
-/node_modules/async-foreach
-/node_modules/asynckit
-/node_modules/autoprefixer
-/node_modules/aws-sign2
-/node_modules/aws4
-/node_modules/babel-code-frame
-/node_modules/babel-generator
-/node_modules/babel-messages
-/node_modules/babel-runtime
-/node_modules/babel-template
-/node_modules/babel-traverse
-/node_modules/babel-types
-/node_modules/babylon
+# /node_modules/async-each
+# /node_modules/async-foreach
+# /node_modules/asynckit
+# /node_modules/autoprefixer
+# /node_modules/aws-sign2
+# /node_modules/aws4
+# /node_modules/babel-code-frame
+# /node_modules/babel-generator
+# /node_modules/babel-messages
+# /node_modules/babel-runtime
+# /node_modules/babel-template
+# /node_modules/babel-traverse
+# /node_modules/babel-types
+# /node_modules/babylon
 /node_modules/backo2
 /node_modules/balanced-match
 /node_modules/base64-arraybuffer
