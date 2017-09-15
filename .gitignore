@@ -67,21 +67,21 @@
 # /node_modules/babel-traverse
 # /node_modules/babel-types
 # /node_modules/babylon
-/node_modules/backo2
-/node_modules/balanced-match
-/node_modules/base64-arraybuffer
-/node_modules/base64-js
-/node_modules/base64id
-/node_modules/batch
-/node_modules/bcrypt-pbkdf
-/node_modules/better-assert
-/node_modules/big.js
-/node_modules/binary-extensions
-/node_modules/blob
-/node_modules/block-stream
-/node_modules/blocking-proxy
-/node_modules/bluebird
-/node_modules/bn.js
+# /node_modules/backo2
+# /node_modules/balanced-match
+# /node_modules/base64-arraybuffer
+# /node_modules/base64-js
+# /node_modules/base64id
+# /node_modules/batch
+# /node_modules/bcrypt-pbkdf
+# /node_modules/better-assert
+# /node_modules/big.js
+# /node_modules/binary-extensions
+# /node_modules/blob
+# /node_modules/block-stream
+# /node_modules/blocking-proxy
+# /node_modules/bluebird
+# /node_modules/bn.js
 /node_modules/body-parser
 /node_modules/bonjour
 /node_modules/boolbase
