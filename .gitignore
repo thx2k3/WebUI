@@ -123,7 +123,7 @@
 # /node_modules/co
 # /node_modules/coa
 # /node_modules/code-point-at
-/node_modules/codelyzer
+# /node_modules/codelyzer
 # /node_modules/color
 # /node_modules/color-convert
 # /node_modules/color-name
@@ -133,8 +133,8 @@
 # /node_modules/combine-lists
 # /node_modules/combined-stream
 # /node_modules/commander
-/node_modules/common-tags
-/node_modules/component-bind
+# /node_modules/common-tags
+# /node_modules/component-bind
 /node_modules/component-emitter
 /node_modules/component-inherit
 /node_modules/compressible
