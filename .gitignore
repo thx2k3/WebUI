@@ -20,11 +20,11 @@
 # /node_modules/acorn-dynamic-import/lib
 # /node_modules/acorn-dynamic-import/node_modules
 # /node_modules/acorn-dynamic-import/src
-/node_modules/adm-zip
-/node_modules/after
-/node_modules/agent-base
-/node_modules/ajv
-/node_modules/ajv-keywords
+# /node_modules/adm-zip
+# /node_modules/after
+# /node_modules/agent-base
+# /node_modules/ajv
+# /node_modules/ajv-keywords
 /node_modules/align-text
 /node_modules/alphanum-sort
 /node_modules/amdefine
