@@ -52,7 +52,7 @@
 # /node_modules/asn1.js
 # /node_modules/assert
 # /node_modules/assert-plus
-/node_modules/async
+# /node_modules/async
 /node_modules/async-each
 /node_modules/async-foreach
 /node_modules/asynckit
