@@ -115,24 +115,24 @@
 # /node_modules/chokidar
 # /node_modules/cipher-base
 # /node_modules/circular-dependency-plugin
-/node_modules/clap
-/node_modules/clean-css
-/node_modules/cliui
-/node_modules/clone
-/node_modules/clone-deep
-/node_modules/co
-/node_modules/coa
-/node_modules/code-point-at
+# /node_modules/clap
+# /node_modules/clean-css
+# /node_modules/cliui
+# /node_modules/clone
+# /node_modules/clone-deep
+# /node_modules/co
+# /node_modules/coa
+# /node_modules/code-point-at
 /node_modules/codelyzer
-/node_modules/color
-/node_modules/color-convert
-/node_modules/color-name
-/node_modules/color-string
-/node_modules/colormin
-/node_modules/colors
-/node_modules/combine-lists
-/node_modules/combined-stream
-/node_modules/commander
+# /node_modules/color
+# /node_modules/color-convert
+# /node_modules/color-name
+# /node_modules/color-string
+# /node_modules/colormin
+# /node_modules/colors
+# /node_modules/combine-lists
+# /node_modules/combined-stream
+# /node_modules/commander
 /node_modules/common-tags
 /node_modules/component-bind
 /node_modules/component-emitter
